@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Pham Nhu Khuong",
+        "phone": "29528975",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Nguyen Nhu Cuong",
+        "phone": "536664",
+        "permission": 3
+    },
+    {
+        "id": 3,
+        "name": "Pham Van Dac",
+        "phone": "577568586",
+        "permission": 2
+    }
+]
